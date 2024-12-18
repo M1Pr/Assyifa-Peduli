@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="/img/logo/Logo-LAZ-Assyifa-Peduli.webp" alt="Assyifa Peduli" width="200">
+  <img src="https://aksipeduli.id/img/logo/Logo-LAZ-Assyifa-Peduli.webp" alt="Assyifa Peduli" width="200">
   <br>
   Assyifa Peduli
 </h1>
