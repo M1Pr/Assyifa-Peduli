@@ -6,7 +6,7 @@
   Assyifa Peduli
 </h1>
 
-<h4 align="center">Develop by<a href="http://electron.atom.io" target="_blank">Moch Izzan</a>.</h4>
+<h4 align="center">Develop by<a href="http://electron.atom.io" target="_blank"> Moch Izzan</a>.</h4>
 
 <p align="center">
   <a href="https://github.com/M1Pr/Assyifa-Peduli/releases/tag/Debug">Download</a> •
