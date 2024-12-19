@@ -6,7 +6,7 @@
   Assyifa Peduli
 </h1>
 
-<h4 align="center">Di Develop Oleh<a href="http://electron.atom.io" target="_blank"> Moch Izzan</a>.</h4>
+<h4 align="center">Assyifa Islamic Philanthropy - <a href="http://electron.atom.io" target="_blank">Assyifa Peduli</a>.</h4>
 
 <p align="center">
   <a href="https://github.com/M1Pr/Assyifa-Peduli/releases/tag/Debug">Download</a> •
@@ -15,6 +15,7 @@
 </p>
 
 <div align="left">
+  <p>Saya izzan dan ini project yang sedang saya pegang. Hubungi saya atau team jika ada kendala pada Aplikasi ;)</p>
   <a href="https://www.instagram.com/moch.izzan/"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
