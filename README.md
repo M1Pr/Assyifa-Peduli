@@ -22,7 +22,7 @@
 
 ## Download
 
-Kamu bisa [download](https://github.com/M1Pr/Assyifa-Peduli/releases/tag/Debug) Versi terbaru dari aplikasi Assyifa Peduli untuk versi Android 8 (oreo) - 15 (Vanilla Ice Cream).
+Kamu bisa [download](https://github.com/M1Pr/Assyifa-Peduli/releases/latest) Versi terbaru dari aplikasi Assyifa Peduli untuk versi Android 8 (oreo) - 15 (Vanilla Ice Cream).
 
 ## Official Website
 
