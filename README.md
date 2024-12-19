@@ -9,7 +9,7 @@
 <h4 align="center">Assyifa Islamic Philanthropy - <a href="http://electron.atom.io" target="_blank">Assyifa Peduli</a>.</h4>
 
 <p align="center">
-  <a href="https://github.com/M1Pr/Assyifa-Peduli/releases/tag/Debug">Download</a> •
+  <a href="https://github.com/M1Pr/Assyifa-Peduli/releases/latest">Download</a> •
   <a href="https://aksipeduli.id/">Credits</a> •
   <a href="https://aksipeduli.id/">License</a>
 </p>
